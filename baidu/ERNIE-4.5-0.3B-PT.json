@@ -17,7 +17,7 @@
   "block_size": "131072",
   "epochs": "3",
   "gradient_accumulation": "4",
-  "lr": "0.00003",
+  "lr": "0.0001",
   "logging_steps": "-1",
   "lora_alpha": "32",
   "lora_dropout": "0.05",
