@@ -7,7 +7,7 @@
   "merge_adapter": "false",
   "mixed_precision": "fp16",
   "optimizer": "adamw_torch",
-  "peft": "true",
+  "peft": "false",
   "padding": "right",
   "quantization": "none",
   "scheduler": "linear",
