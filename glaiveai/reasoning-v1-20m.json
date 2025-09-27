@@ -11,7 +11,7 @@
   "padding": "right",
   "quantization": "none",
   "scheduler": "linear",
-  "unsloth": "false",
+  "unsloth": "true",
   "use_flash_attention_2": "false",
   "batch_size": "1",
   "block_size": "4096",
